@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/blue"
+        android:icon="@drawable/icon_bluetooth"
+        android:title="Bluetoothicon"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/button1"
+        android:icon="@drawable/icon_phone"
+        android:title="la1"
+        app:showAsAction="always"/>
+
+</menu>
